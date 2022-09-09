@@ -66,7 +66,6 @@ def insert():
             messagebox.showerror('Error', 'Fill all spaces.')
             return
 
-    print(insert_list)
     insert_form(insert_list)
     messagebox.showinfo('Success', 'Data was successfully inserted.')
 
@@ -158,7 +157,6 @@ def delete():
         treev_dic = tree.item(treev_data)
         treev_list = treev_dic['values']
         value = treev_list[0]
-        print(value)
 
         delete_form([value])
         messagebox.showinfo('Sucess', 'Data was successfully deleted.')
