@@ -24,7 +24,7 @@ python client_interface.py
 
 3. **Have fun** and enjoy it!
 
-### Used languages/Frameworks 💻
+### Used languages/frameworks 💻
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
